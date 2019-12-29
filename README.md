@@ -1,4 +1,4 @@
-# electricitydata
+# electricity data
 
 real dataset on household consumption. 
 
